@@ -18,7 +18,7 @@
       // sqlite:
       //   "data source=musicstore.db;"
       // mysql:
-      //   "server=127.0.0.1;port=3306;database=sampledb;uid=mysqluser;pwd=password;"
+      //   "server=127.0.0.1;port=3306;database=sampledb;uid=root;pwd=root;"
       "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=MusicStore;Trusted_Connection=True;MultipleActiveResultSets=true;Connect Timeout=30;"
     }
   }
